@@ -1,0 +1,17 @@
+# Dependências do Gerador de Pastas de NF
+# 
+# Bibliotecas necessárias para executar a aplicação:
+
+openpyxl>=3.0.0
+# Para leitura de arquivos Excel (.xlsx)
+
+# Bibliotecas padrão do Python (não precisam ser instaladas):
+# - tkinter (interface gráfica)
+# - os (operações do sistema)
+# - shutil (operações de arquivo)
+# - csv (leitura de CSV)
+# - threading (processamento em paralelo)
+# - time (controle de tempo)
+
+# Para instalar as dependências:
+# pip install -r requirements.txt
